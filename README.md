@@ -18,12 +18,7 @@
 </p>
 
 
-### DEVELOPERS:-
-1) ANONUD4Y (https://github.com/An0nUD4Y)
-2) USAMA ABDUL SATTAR (https://github.com/usama7628674)
-3) sTiKyt (https://github.com/sTiKyt)
-4) UNDEADSEC (https://github.com/UndeadSec)
-5) Micrafast (https://github.com/Micrafast)
+
 6) ___________ (WAITING FOR YOU)
 
 ## CREDIT:-
