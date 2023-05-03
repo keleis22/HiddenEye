@@ -7,8 +7,6 @@
 </p>
 
 <p align="center"> 
-  
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd8aa9a99b5b4afd84e19a98b7b30211)](https://app.codacy.com/app/DarkSecDevelopers/HiddenEye?utm_source=github.com&utm_medium=referral&utm_content=DarkSecDevelopers/HiddenEye&utm_campaign=Badge_Grade_Dashboard)
 </p>
 
 <p align="center">
